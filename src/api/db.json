@@ -1,0 +1,29 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Hulk",
+      "power": "Super Fuerza"
+    },
+    {
+      "id": 2,
+      "name": "Doctor Stranger",
+      "power": "Magia"
+    },
+    {
+      "id": 3,
+      "name": "Iron-man",
+      "power": "Tecnologia"
+    },
+    {
+      "id": 4,
+      "name": "Spider-man",
+      "power": "Velocidad"
+    },
+    {
+      "id": 5,
+      "name": "Thor",
+      "power": "Super Fuerza"
+    }
+  ]
+}
